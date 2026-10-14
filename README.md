@@ -1,6 +1,6 @@
 <h1 align="center">👋 Merhaba, ben Enes Karaca</h1>
 
-<h3 align="center">📱 Mobile Developer &nbsp;·&nbsp; 🤖 AI Engineer &nbsp;·&nbsp; 🌌 Generative Art</h3>
+<h3 align="center">📱 Mobile Developer &nbsp;·&nbsp; ⚙️ Backend Developer &nbsp;·&nbsp; 🤖 Data Science & ML Enthusiast</h3>
 
 <br/>
 
@@ -22,7 +22,7 @@
 class EnesKaraca:
     ad        = "Enes Karaca"
     konum     = "Türkiye 🇹🇷"
-    odak      = ["Flutter / Dart", "Python & ML", "Generative Art"]
+    odak      = ["Flutter / Dart", "Python & ML", "C#/ASP.NET CORE"]
     freelance = "Upwork ✅"
     kahve     = True  # zorunlu bağımlılık ☕
 
@@ -59,7 +59,7 @@ class EnesKaraca:
 
 | Proje | Açıklama | Stack |
 |-------|----------|-------|
-| [🌌 GLITCH](https://github.com/EnesKaraca44/GLITCH) | Seçimlerine göre kişiye özel generative art evreni | Flutter · Riverpod |
+| 💒 KarWed(https://github.com/EnesKaraca44/KarWed) | Düğün konuklarının QR kodla fotoğraf ve mesaj paylaşabildiği gerçek zamanlı etkinlik platformu | C# · ASP.NET Core · SignalR |
 | [🎬 FilmSwipe](https://github.com/EnesKaraca44/FilmSwipe) | Tinder tarzı film öneri uygulaması | Flutter |
 | [📈 BIST30 Portföy](https://github.com/EnesKaraca44/bist30-portfoy-optimizasyonu) | LSTM + MPT ile yapay zeka destekli portföy analizi | Python · Keras · ARIMA |
 | [🌸 Parfüm Analizi](https://github.com/EnesKaraca44/perfume-review-analyzer) | NLP ile yorum analizi ve müşteri segmentasyonu | Python · NLP |
