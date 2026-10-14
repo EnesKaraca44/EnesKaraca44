@@ -59,7 +59,7 @@ class EnesKaraca:
 
 | Proje | Açıklama | Stack |
 |-------|----------|-------|
-| 💒 KarWed(https://github.com/EnesKaraca44/KarWed) | Düğün konuklarının QR kodla fotoğraf ve mesaj paylaşabildiği gerçek zamanlı etkinlik platformu | C# · ASP.NET Core · SignalR |
+| [💒 KarWed](https://github.com/EnesKaraca44/KarWed) | Düğün konuklarının QR kodla fotoğraf ve mesaj paylaşabildiği gerçek zamanlı etkinlik platformu | C# · ASP.NET Core · SignalR |
 | [🎬 FilmSwipe](https://github.com/EnesKaraca44/FilmSwipe) | Tinder tarzı film öneri uygulaması | Flutter |
 | [📈 BIST30 Portföy](https://github.com/EnesKaraca44/bist30-portfoy-optimizasyonu) | LSTM + MPT ile yapay zeka destekli portföy analizi | Python · Keras · ARIMA |
 | [🌸 Parfüm Analizi](https://github.com/EnesKaraca44/perfume-review-analyzer) | NLP ile yorum analizi ve müşteri segmentasyonu | Python · NLP |
