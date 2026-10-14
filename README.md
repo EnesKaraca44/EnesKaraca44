@@ -1,14 +1,10 @@
-<div align="center">
+<h1 align="center">👋 Merhaba, ben Enes Karaca</h1>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&duration=2000&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Enes+Karaca" alt="Enes Karaca"/>
-</h1>
-
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9B6DFF&center=true&vCenter=true&width=650&lines=📱+Flutter+%26+Dart+ile+mobil+uygulama;🤖+Python+%26+ML+ile+yapay+zeka;🌌+Generative+Art+ile+kodu+sanata+dönüştürme;💼+Upwork+Freelancer" alt="Typing SVG"/>
-</h3>
+<h3 align="center">📱 Mobile Developer &nbsp;·&nbsp; 🤖 AI Engineer &nbsp;·&nbsp; 🌌 Generative Art</h3>
 
 <br/>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-karaca-277655299/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0143bae00c4/e48a6a)
@@ -65,13 +61,13 @@ class EnesKaraca:
 |-------|----------|-------|
 | [🌌 GLITCH](https://github.com/EnesKaraca44/GLITCH) | Seçimlerine göre kişiye özel generative art evreni | Flutter · Riverpod |
 | [🎬 FilmSwipe](https://github.com/EnesKaraca44/FilmSwipe) | Tinder tarzı film öneri uygulaması | Flutter |
-| [📈 BIST30 Portföy](https://github.com/EnesKaraca44/bist30-portfoy-optimizasyonu) | LSTM + MPT ile yapay zeka destekli portföy | Python · Keras |
+| [📈 BIST30 Portföy](https://github.com/EnesKaraca44/bist30-portfoy-optimizasyonu) | LSTM + MPT ile yapay zeka destekli portföy analizi | Python · Keras · ARIMA |
 | [🌸 Parfüm Analizi](https://github.com/EnesKaraca44/perfume-review-analyzer) | NLP ile yorum analizi ve müşteri segmentasyonu | Python · NLP |
 | [💪 ArFitness](https://github.com/EnesKaraca44/ArFitness) | Android fitness takip uygulaması | Kotlin |
 
 ---
 
-### 📊 İstatistikler
+### 📊 GitHub İstatistikleri
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EnesKaraca44&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9B6DFF&icon_color=36D6C3&text_color=c9d1d9"/>
@@ -80,10 +76,4 @@ class EnesKaraca:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=EnesKaraca44&theme=tokyonight&hide_border=true&background=0d1117&stroke=9B6DFF&ring=9B6DFF&fire=36D6C3&currStreakLabel=c9d1d9" />
-</div>
-
----
-
-<div align="center">
-  <sub>⚡ Güncel tutulmaya çalışılan bir profil — <a href="https://github.com/EnesKaraca44">@EnesKaraca44</a></sub>
 </div>
