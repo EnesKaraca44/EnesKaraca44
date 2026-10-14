@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- Dinamik yazı animasyonu -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9B6DFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+ben+Enes+%F0%9F%91%8B;Mobil+%26+AI+Geli%C5%9Ftiricisi)](https://git.io/typing-svg)
+<!-- Ana isim banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Enes%20Karaca&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Developer%20%26%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+
+<!-- Typing animasyonu -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=9B6DFF&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+ile+mobil+uygulama+geli%C5%9Ftiriyorum+%F0%9F%93%B1;Python+%26+ML+ile+veri+analizi+yap%C4%B1yorum+%F0%9F%A4%96;Generative+Art+ile+kodu+sanata+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum+%F0%9F%8C%8C;Upwork%27ta+freelance+proje+al%C4%B1yorum+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=EnesKaraca44&color=9B6DFF&style=flat-square&label=Profil+Görüntüleme" alt="profile views"/>
 
@@ -9,7 +12,7 @@
 
 ---
 
-### 🧑‍💻 Kimim?
+### 👨‍💻 Kimim?
 
 ```python
 class EnesKaraca:
@@ -18,10 +21,14 @@ class EnesKaraca:
         self.location    = "Türkiye 🇹🇷"
         self.focus       = ["Mobile Dev", "Machine Learning", "Generative Art"]
         self.languages   = ["Python", "Dart/Flutter", "Kotlin"]
-        self.coffee_dep  = True  # kritik bağımlılık
+        self.freelance   = "Upwork ✅"
+        self.coffee_dep  = True  # kritik bağımlılık ☕
 
     def current_mission(self):
         return "Veriyi sanata, kodları deneyime dönüştürmek 🚀"
+
+    def fun_fact(self):
+        return "GLITCH ile kendi dijital evrenini oluşturabilirsin 🌌"
 
 me = EnesKaraca()
 print(me.current_mission())
@@ -34,21 +41,22 @@ print(me.current_mission())
 
 <div align="center">
 
-**Mobil**
+**📱 Mobil Geliştirme**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Yapay Zeka & Veri**
+**🤖 Yapay Zeka & Veri Bilimi**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Araçlar**
+**⚙️ Araçlar**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -60,13 +68,13 @@ print(me.current_mission())
 
 ### 🚀 Öne Çıkan Projeler
 
-| Proje | Ne Yapar? | Stack |
-|-------|-----------|-------|
+| 🔗 Proje | 💡 Ne Yapar? | 🛠️ Stack |
+|----------|-------------|----------|
 | [🌌 GLITCH](https://github.com/EnesKaraca44/GLITCH) | Seçimlerinden kişiye özel generative art evreni üretir | Flutter · Riverpod · CustomPainter |
-| [🎬 FilmSwipe](https://github.com/EnesKaraca44/FilmSwipe) | Tinder gibi film öneri deneyimi | Flutter |
-| [💼 BIST30 Portföy Optimizasyonu](https://github.com/EnesKaraca44/bist30-portfoy-optimizasyonu) | LSTM + MPT ile derin öğrenme destekli portföy yönetimi | Python · Keras · ARIMA |
-| [🌸 Parfüm Analiz Motoru](https://github.com/EnesKaraca44/perfume-review-analyzer) | Yorumlardan içgörü çıkarır, segmentasyon yapar | Python · NLP · Sentiment |
-| [💪 ArFitness](https://github.com/EnesKaraca44/ArFitness) | Android fitness uygulaması | Kotlin |
+| [🎬 FilmSwipe](https://github.com/EnesKaraca44/FilmSwipe) | Tinder tarzı film öneri deneyimi | Flutter |
+| [📈 BIST30 Portföy](https://github.com/EnesKaraca44/bist30-portfoy-optimizasyonu) | LSTM + MPT ile derin öğrenme destekli yatırım analizi | Python · Keras · ARIMA |
+| [🌸 Parfüm Analizi](https://github.com/EnesKaraca44/perfume-review-analyzer) | Yorumlardan insight çıkarır, müşteri segmentasyonu yapar | Python · NLP · Sentiment |
+| [💪 ArFitness](https://github.com/EnesKaraca44/ArFitness) | Android fitness takip uygulaması | Kotlin |
 
 ---
 
@@ -85,9 +93,10 @@ print(me.current_mission())
 
 ### 🌱 Şu An Ne Üzerinde Çalışıyorum?
 
-- 🌌 **GLITCH** — Generative art ile kişisel dijital kimlik deneyimi geliştiriyorum *(Flutter)*
+- 🌌 **GLITCH** — Generative art ile kişisel dijital kimlik deneyimi *(Flutter · Riverpod)*
 - 🤖 ML modellerini mobil uygulamalara entegre etmeyi keşfediyorum
-- 📱 Android için premium UX standartlarını öğreniyorum
+- 📱 Android için premium UX standartları öğreniyorum
+- 💼 Upwork üzerinden freelance projeler alıyorum
 
 ---
 
@@ -101,8 +110,6 @@ print(me.current_mission())
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
