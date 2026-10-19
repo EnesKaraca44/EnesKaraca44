@@ -32,67 +32,77 @@ I take on freelance projects through [Upwork](https://www.upwork.com/freelancers
 
 <h2 align="center"><img src="assets/banners/expeditions.svg" width="100%" alt="Featured expeditions"></h2>
 
-<a href="https://github.com/EnesKaraca44/bist30-portfoy-optimizasyonu"><img src="assets/expeditions/portfoyoptim.svg" width="100%" alt="PortföyOptim drawn as a route map: market data, features, forecasts, blending, portfolio."></a>
+<a href="https://github.com/EnesKaraca44/bist30-portfoy-optimizasyonu"><img src="assets/expeditions/bist30-portfoy-optimizasyonu.svg" width="100%" alt="BIST30 Portföy Optimizasyonu. Forecasts return and risk for every BIST 30 stock with auto-ARIMA, GARCH, Black–Litterman and per-stock LSTM models, builds Monte Carlo portfolios for three risk profiles and serves it all through a Flask web app. Built with Python, Flask, TensorFlow and Keras, pmdarima, arch, scikit-learn, pandas, NumPy, SciPy, yfinance, Plotly, SQLite, Flask-Login and TCMB EVDS."></a>
 
-### [PortföyOptim: BIST 30 portfolio optimisation](https://github.com/EnesKaraca44/bist30-portfoy-optimizasyonu)
+### [bist30-portfoy-optimizasyonu](https://github.com/EnesKaraca44/bist30-portfoy-optimizasyonu)
 
-My graduation thesis: a Flask web application that estimates return and risk for every BIST&nbsp;30 stock and proposes portfolios for low, medium and high risk profiles. A batch pipeline combines auto-ARIMA forecasts (fed by 51 technical indicators and macro signals such as USD/TRY, Brent oil and the central bank policy rate), GARCH(1,1) volatility, Black–Litterman views and a per-stock LSTM ensemble, then Monte Carlo simulation searches for the portfolio weights. The interface compares classic Modern Portfolio Theory with the ML portfolio, tracks forecast accuracy and runs a weekly user-versus-AI leaderboard. The repository includes a unittest suite and a one-year backtest.
-
-<sub>Built with Python, Flask, TensorFlow and Keras, pmdarima, arch, scikit-learn, Plotly and SQLite.</sub>
+My graduation thesis: a Flask application that combines classical portfolio theory with machine-learning forecasts for the stocks in Borsa İstanbul's BIST&nbsp;30 index.
 
 <p align="center"><img src="assets/section-divider.svg" width="72%" alt=""></p>
 
-<a href="https://github.com/EnesKaraca44/ArFitness"><img src="assets/expeditions/arfitness.svg" width="100%" alt="ArFitness drawn as a route map: camera, pose, analyzer, logbook, with two app screenshots pinned like photographs."></a>
+<a href="https://github.com/EnesKaraca44/AI-Roast-Battle"><img src="assets/expeditions/ai-roast-battle.svg" width="100%" alt="AI-Roast-Battle. Analyses photos with Google Gemini and writes roasts in the voice of more than 20 characters, with a Battle mode, a showcase feed and a secure Cloud Functions proxy with App Check and rate limits. Built with Flutter, Dart, flutter_bloc, get_it, Firebase Auth, Cloud Firestore, Firebase Storage, Cloud Functions, App Check, Crashlytics, Gemini AI, Hive and Lottie."></a>
 
-### [ArFitness: an on-device AI workout coach](https://github.com/EnesKaraca44/ArFitness)
+### [AI-Roast-Battle](https://github.com/EnesKaraca44/AI-Roast-Battle)
 
-An Android app that turns the phone camera into a form coach. CameraX frames go to ML Kit Pose Detection, a custom overlay draws the detected skeleton, and a dedicated analyzer for each of 15 exercises reads joint angles to count reps, track movement phases and flag common form mistakes. Squats and lunges are also matched against reference movements with dynamic time warping. Workouts, form scores and history are stored on the device with Room, and camera frames are processed locally rather than uploaded.
-
-<sub>Built with Kotlin, MVVM, Hilt, CameraX, ML Kit Pose Detection, Room, Coroutines and Flow, and MPAndroidChart.</sub>
+A Flutter app that turns photos into AI-written roasts and battles, with the Gemini integration kept safely on the server.
 
 <p align="center"><img src="assets/section-divider.svg" width="72%" alt=""></p>
 
-<a href="https://github.com/EnesKaraca44/KarWed"><img src="assets/expeditions/karwed.svg" width="100%" alt="KarWed drawn as a route map: guest, upload, moderation, big screen."></a>
+<a href="https://github.com/EnesKaraca44/FilmSwipe"><img src="assets/expeditions/filmswipe.svg" width="100%" alt="FilmSwipe. Swipe through TMDB films, create a room with a code and match when both people like the same film, with Quick Duel, real-time chat, an offline watchlist and Play Billing. Built with Kotlin, MVVM, Hilt, Coroutines and Flow, Retrofit, Room, Firebase Realtime Database, Firebase Auth, Cloud Functions, Navigation, Glide, Lottie, CardStackView, AdMob and Play Billing."></a>
 
-### [KarWed: a live photo wall for weddings and events](https://github.com/EnesKaraca44/KarWed)
+### [FilmSwipe](https://github.com/EnesKaraca44/FilmSwipe)
 
-Guests scan a QR code at their table and upload photos and messages from the browser, with no app to install. The host approves each post in a moderation queue, and approved posts appear on the venue's big-screen slideshow in real time through SignalR, while a second hub keeps the admin panel's pending count live. The platform also covers ASP.NET Core Identity with Google sign-in, plan tiers, venue branding and server-side image processing.
+An Android app that ends the "what should we watch tonight?" debate by letting friends swipe through films together until they match.
 
-<sub>Built with C#, ASP.NET Core 8 MVC, SignalR, Entity Framework Core, SQL Server and ImageSharp.</sub>
+<p align="center"><img src="assets/screens/filmswipe.svg" width="88%" alt="Three FilmSwipe screenshots: the genre filters, a newly created room with its code, and Quick Duel searching for a partner."></p>
 
 <p align="center"><img src="assets/section-divider.svg" width="72%" alt=""></p>
 
-<a href="https://github.com/EnesKaraca44/AI-Roast-Battle"><img src="assets/expeditions/kapak-olsun.svg" width="100%" alt="Kapak Olsun drawn as a route map: photo, gate, proxy, Gemini, showcase."></a>
+<a href="https://github.com/EnesKaraca44/ArFitness"><img src="assets/expeditions/arfitness.svg" width="100%" alt="ArFitness. Tracks 33 body landmarks with ML Kit, counts reps and gives form feedback through 15 exercise analyzers, matches movements with Dynamic Time Warping and stores workout history on the device. Built with Kotlin, MVVM, Hilt, Coroutines and Flow, CameraX, ML Kit Pose Detection, Room, Navigation, ViewBinding, Glide and MPAndroidChart."></a>
 
-### [Kapak Olsun (AI Roast Battle)](https://github.com/EnesKaraca44/AI-Roast-Battle)
+### [ArFitness](https://github.com/EnesKaraca44/ArFitness)
 
-A Flutter app that sends a photo to Google Gemini and returns a roast in the voice of a chosen character. Battle mode compares two photos and picks a winner, and a showcase feed lets people share and react to results. The Gemini key never ships with the app: every call goes through a Firebase Cloud Functions proxy that checks authentication and App Check tokens, validates the payload and enforces per-user rate limits stored in Firestore. Firestore and Storage security rules are tested against the emulator in CI, and the interface is localised in Turkish and English.
+An Android app that uses the phone camera and on-device pose detection to coach exercise form in real time.
 
-<sub>Built with Flutter, Dart, flutter_bloc (Cubit), get_it, Firebase (Auth, Firestore, Storage, Functions, App Check), the Gemini API and Hive.</sub>
+<p align="center"><img src="assets/screens/arfitness.svg" width="88%" alt="Three ArFitness screenshots: the splash screen, the home screen with exercise categories, and the workout history."></p>
+
+<p align="center"><img src="assets/section-divider.svg" width="72%" alt=""></p>
+
+<a href="https://github.com/EnesKaraca44/Kds"><img src="assets/expeditions/kds.svg" width="100%" alt="KDS. A decision support system for hospitals with 18 analysis and reporting modules, SQL Server integration, Plotly dashboards, AES-256 encrypted storage and Windows service deployment. Built with Python, Flask, pyodbc, SQL Server, pandas, Plotly, JavaScript, Waitress and PyCryptodome."></a>
+
+### [Kds](https://github.com/EnesKaraca44/Kds)
+
+A Flask-based decision support system that turns hospital operational data into dashboards and reports for managers and physicians.
+
+<p align="center"><img src="assets/section-divider.svg" width="72%" alt=""></p>
+
+<a href="https://github.com/EnesKaraca44/KarWed"><img src="assets/expeditions/karwed.svg" width="100%" alt="KarWed. Guests scan a QR code to upload photos and messages that appear on the venue's big screen through SignalR, with moderation, white-label venue branding and subscription tiers. Built with C#, .NET 8, ASP.NET Core MVC, SignalR, Entity Framework Core, SQL Server, ASP.NET Core Identity, Google OAuth, ImageSharp, Razor and JavaScript."></a>
+
+### [KarWed](https://github.com/EnesKaraca44/KarWed)
+
+An ASP.NET Core SaaS platform that puts guests' photos and messages on the big screen at weddings and events, live.
 
 <h2 align="center"><img src="assets/banners/discoveries.svg" width="100%" alt="Further discoveries"></h2>
 
-### Mobile
+### Web, backend and desktop
 
-- **[FilmSwipe](https://github.com/EnesKaraca44/FilmSwipe)**: settles "what do we watch tonight?" Friends join a room with a code and swipe through TMDB films, and a Cloud Function declares a match when everyone likes the same title. Also has quick duels with random players, in-room chat and an offline watchlist.<br><sub>Kotlin, Hilt, Retrofit, Firebase Realtime Database, Room, Lottie</sub>
-- **[Zihin Bahçesi](https://github.com/EnesKaraca44/Zihin-Bahcesi)**: a digital-detox app in which completed focus tasks grow a virtual garden, with progress statistics.<br><sub>Flutter, Riverpod, Hive, go_router, fl_chart</sub>
-- **[Modern Bütçe Takip](https://github.com/EnesKaraca44/Modern-butce-takip-uygulamasi)**: a budget tracker with categories, monthly summaries and charts.<br><sub>Flutter, Provider, sqflite, fl_chart</sub>
-
-### Backend, web and desktop
-
-- **[Kds](https://github.com/EnesKaraca44/Kds)**: a decision-support system for healthcare institutions, with Flask dashboards over SQL Server covering clinic traffic, treatment groups, stock, revenue, referrals, radiology and more.<br><sub>Python, Flask, pyodbc, pandas, Plotly, Waitress</sub>
-- **[BerberOto](https://github.com/EnesKaraca44/BerberOto)**: appointment and customer management for barber shops, with SMS reminders sent by a background service.<br><sub>C#, ASP.NET Core 8, Entity Framework Core, SQLite</sub>
-- **[YİMA Taahhüt ve İnşaat](https://github.com/EnesKaraca44/-YIMA-Taahhut-ve-Insaat)**: a corporate website for a civil-engineering contractor, with a filterable project gallery and all copy kept in a single content file.<br><sub>React 18, TypeScript, Vite, Tailwind CSS</sub>
-- **[SOHAT](https://github.com/EnesKaraca44/SOHAT)**: a patient-tracking desktop system built as a school project in an N-tier architecture.<br><sub>C#, Windows Forms, PostgreSQL</sub>
-- **[MiniERP](https://github.com/EnesKaraca44/MiniERP-StockManagement)**: stock and order management with critical-stock alerts and Excel export.<br><sub>C#, Windows Forms, SQL Server</sub>
+- **[-YIMA-Taahhut-ve-Insaat](https://github.com/EnesKaraca44/-YIMA-Taahhut-ve-Insaat)**: the corporate website of YİMA Taahhüt ve İnşaat, a road, railway and infrastructure contractor. It has a filterable project gallery with a video player, service and corporate detail modals, a WhatsApp contact button, and all content managed from one TypeScript file.<br>`React 18` `TypeScript` `Vite` `Tailwind CSS`
+- **[BerberOto](https://github.com/EnesKaraca44/BerberOto)**: appointment and customer management for barber shops, with an admin panel and SMS reminders sent by a background service.<br>`C#` `ASP.NET Core 8` `Entity Framework Core` `SQLite`
+- **[SOHAT](https://github.com/EnesKaraca44/SOHAT)**: a patient-tracking system for hospitals and clinics, built as a school project in an N-tier architecture.<br>`C#` `Windows Forms` `PostgreSQL` `Npgsql`
+- **[MiniERP-StockManagement](https://github.com/EnesKaraca44/MiniERP-StockManagement)**: stock and order management with critical-stock alerts, live search and Excel export.<br>`C#` `Windows Forms` `SQL Server`
 
 ### Data and AI
 
-- **[Kripto](https://github.com/EnesKaraca44/Kripto)**: a crypto forecasting pipeline that pulls exchange data through ccxt and trains per-pair XGBoost, CatBoost and random-forest models, including 10th and 90th percentile quantile models, with a backtester.<br><sub>Python, ccxt, XGBoost, CatBoost, scikit-learn</sub>
-- **[Perfume Review Analyzer](https://github.com/EnesKaraca44/perfume-review-analyzer)**: an NLP study on a synthetic set of Turkish perfume reviews, covering Turkish BERT sentiment, aspect-based sentiment, feature-importance ranking and K-Means consumer segments.<br><sub>Python, Hugging Face Transformers, NLTK, scikit-learn</sub>
-- **[GÖRHÜK](https://github.com/EnesKaraca44/GORHUK)**: a desktop playground for more than 20 image-processing operations.<br><sub>Python, OpenCV, Tkinter</sub>
-- **[Elite AI SDR Squad](https://github.com/EnesKaraca44/Elite-AI-SDR-Squad)**: a Flask app in which research, analysis, contact and outreach agents prepare sales briefs.<br><sub>Python, Flask, OpenAI, Gemini, Perplexity, Serper</sub>
-- **[B2B Cold Outreach Engine](https://github.com/EnesKaraca44/B2B-Cold-Outreach-RevOps-Automation-Engine)**: a Streamlit tool for prospect discovery, contact-page scraping, Gemini-written opening lines and SMTP sending.<br><sub>Python, Streamlit, BeautifulSoup, Gemini API</sub>
+- **[Kripto](https://github.com/EnesKaraca44/Kripto)**: a crypto forecasting pipeline that pulls exchange data through ccxt and trains per-pair XGBoost, CatBoost and random-forest models, including 10th and 90th percentile quantile models, with a backtester.<br>`Python` `ccxt` `XGBoost` `CatBoost` `scikit-learn`
+- **[perfume-review-analyzer](https://github.com/EnesKaraca44/perfume-review-analyzer)**: an NLP study on a synthetic set of Turkish perfume reviews, with Turkish BERT sentiment, aspect-based sentiment, feature-importance ranking and K-Means consumer segments.<br>`Python` `Transformers` `NLTK` `spaCy` `scikit-learn`
+- **[GORHUK](https://github.com/EnesKaraca44/GORHUK)**: a desktop app for trying more than 20 image-processing operations.<br>`Python` `OpenCV` `Tkinter`
+- **[Elite-AI-SDR-Squad](https://github.com/EnesKaraca44/Elite-AI-SDR-Squad)**: a Flask app in which research, analysis, contact and outreach agents prepare sales briefs.<br>`Python` `Flask` `OpenAI` `Gemini` `Perplexity` `Serper`
+- **[B2B-Cold-Outreach-RevOps-Automation-Engine](https://github.com/EnesKaraca44/B2B-Cold-Outreach-RevOps-Automation-Engine)**: a Streamlit tool for prospect discovery, contact-page scraping, Gemini-written opening lines and SMTP sending.<br>`Python` `Streamlit` `BeautifulSoup` `Gemini`
+
+### Mobile
+
+- **[Zihin-Bahcesi](https://github.com/EnesKaraca44/Zihin-Bahcesi)**: a digital-detox app in which completed focus tasks grow a virtual garden, with progress statistics.<br>`Flutter` `Riverpod` `Hive` `go_router` `fl_chart`
+- **[Modern-butce-takip-uygulamasi](https://github.com/EnesKaraca44/Modern-butce-takip-uygulamasi)**: a budget tracker with categories, monthly summaries and charts.<br>`Flutter` `Provider` `sqflite` `fl_chart`
 
 <details>
 <summary><b>Early coursework</b> (Kotlin and Flutter practice projects)</summary>
