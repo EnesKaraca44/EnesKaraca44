@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="assets/hero-atlas.svg" width="100%" alt="Enes Karaca. The Art of Getting Lost. Mobile and backend developer, curious about data and machine learning. An antique atlas with a dotted route crossing Europe to Anatolia and arcing on to Japan.">
+  <img src="assets/hero-enes-karaca.svg" width="100%" alt="Enes Karaca. The Art of Getting Lost. Mobile and backend developer, curious about data and machine learning. An antique atlas with a dotted route crossing Europe to Anatolia and arcing on to Japan.">
 </p>
 
 <p align="center">
